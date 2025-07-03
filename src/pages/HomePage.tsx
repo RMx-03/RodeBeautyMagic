@@ -1,4 +1,3 @@
-import React from 'react';
 import HeroNew from '../components/HeroNew';
 import MarqueeScroll from '../components/MarqueeScroll';
 import CategoryShowcase from '../components/CategoryShowcase';

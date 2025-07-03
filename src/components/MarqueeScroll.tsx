@@ -1,5 +1,3 @@
-import React from 'react';
-
 const MarqueeScroll = () => {
   return (
     <div className="bg-black text-white py-3 overflow-hidden">
