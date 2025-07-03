@@ -1,5 +1,3 @@
-import { Link } from 'react-router-dom';
-
 const ClothingBanner = () => {
   return (
     <div className="bg-white py-16">
